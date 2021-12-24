@@ -1,0 +1,9 @@
+C:\Users\92336\source\repos\k180274_q3_A2\bin\Debug\k180274_q3_A2.exe.config
+C:\Users\92336\source\repos\k180274_q3_A2\bin\Debug\k180274_q3_A2.exe
+C:\Users\92336\source\repos\k180274_q3_A2\bin\Debug\k180274_q3_A2.pdb
+C:\Users\92336\source\repos\k180274_q3_A2\obj\Debug\k180274_q3_A2.ProjectInstaller.resources
+C:\Users\92336\source\repos\k180274_q3_A2\obj\Debug\k180274_q3_A2.Service1.resources
+C:\Users\92336\source\repos\k180274_q3_A2\obj\Debug\k180274_q3_A2.csproj.GenerateResource.cache
+C:\Users\92336\source\repos\k180274_q3_A2\obj\Debug\k180274_q3_A2.csproj.CoreCompileInputs.cache
+C:\Users\92336\source\repos\k180274_q3_A2\obj\Debug\k180274_q3_A2.exe
+C:\Users\92336\source\repos\k180274_q3_A2\obj\Debug\k180274_q3_A2.pdb
